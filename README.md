@@ -9,6 +9,6 @@ For our analysis we have been tasked by Martha, a senior manager for the Advisor
 ## Resources:
 ---
 
-Data Source: 
+Data Source: [crypto_data.csv](https://github.com/DJV7893/Cryptocurrencies/files/8968713/crypto_data.csv)
 
 Software: Jupyter Notebook 6.4.8, Python 3.7.13
